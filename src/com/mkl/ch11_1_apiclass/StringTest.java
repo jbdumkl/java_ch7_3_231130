@@ -53,7 +53,6 @@ public class StringTest {
 		System.out.println((int)(Math.random() * 20+1));//1~20사이의 정수 중 한개가 반환
 		
 		System.out.println((int)(Math.random() * 45+1));//1~45사이의 정수 중 한개가 반환
-		
 	}
 
 }
